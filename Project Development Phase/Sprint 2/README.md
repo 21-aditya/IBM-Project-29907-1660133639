@@ -1,4 +1,4 @@
-his is the README file for sprint-2
+This is the README file for sprint-2
 
 # Tasks to be done:
 1. A front-end code (in HTML) which serves as registration page and accepts user-name, password and email.
