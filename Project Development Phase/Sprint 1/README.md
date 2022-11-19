@@ -11,4 +11,5 @@ The dataset given by the IBM platform was not very efficient since the model ove
 6. A front-end code (in HTML) which provides a clean and consistent layout for every HTML file to adopt, helps in a neat presentation - layout.html
 7. A front-end code (in HTML) which shows the image uploaded by the user along with the prediction given by the algorithm - showimage.html
 8. A CSS file that provides the styling to all the HTML pages - style.css
+
 Dataset link - 
