@@ -7,5 +7,6 @@ The dataset given by the IBM platform was not very efficient since the model ove
 2. A Machine Learning code that classifies the inputted image(works on the dataset provided by IBM) - submitted as a .pynb file.
 3. A Machine Learning code that classifies the inputted image(works on the dataset collected by us) - submitted as a .pynb file.
 4. Dataset Webscrapper code - submitted as .py file.
+5. A python file which acts as the backend script(server-side) and helps in redirection to various subdomains in the application - main.py.
 
 Dataset link - 
