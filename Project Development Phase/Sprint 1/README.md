@@ -1,4 +1,5 @@
 This is the README file for sprint-1
+
 The dataset given by the IBM platform was not very efficient since the model overfitted the training data quickly not leading to greater accuracy. So in an effort to increase the efficiency of the classification algorithm, we have taken an initiative to collect the dataset overselves. We have used Python Selenium library to automate the dataset collection using webscraping and we have attached the required code in this sprint.
 
 # Tasks done:
