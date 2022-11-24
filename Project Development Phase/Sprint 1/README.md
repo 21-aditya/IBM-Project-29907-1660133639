@@ -12,4 +12,4 @@ The dataset given by the IBM platform was not very efficient since the model ove
 7. A front-end code (in HTML) which shows the image uploaded by the user along with the prediction given by the algorithm - showimage.html
 8. A CSS file that provides the styling to all the HTML pages - style.css
 
-Dataset link - 
+Dataset link - https://drive.google.com/drive/folders/1JU2hjdkPdaVTJpEuuFrNdlAcld3rBxoW?usp=share_link
